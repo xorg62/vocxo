@@ -1,6 +1,11 @@
 vocxo
 
-in English vocxo means voice
+== Blibli Translation ==
+vocxo is the Esperanto word for 'voice'
 
-A simple voice chat cli client for use with jabber.
+== Description ==
+Server: standalone daemon
 
+Client: ncmpcpp-like ncurses interface
+
+HFTIrc plugin

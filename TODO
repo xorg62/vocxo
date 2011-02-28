@@ -1,7 +1,5 @@
 vocxo TODO
 
--Client <-> Client Connection
--Jabber Signin/Connection
--Sound System Implementation
--Ncurses interface
-
+- Server
+- Client
+- HFTIrc plugin
